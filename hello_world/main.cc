@@ -22,7 +22,7 @@ int main()
 			std::fixed <<
 			"Длина окружности = " <<
 			 std::setw(9) << std::setprecision(3) << length << std::endl <<
-			"Площадь круга = " <<
+			"Площадь круга    = " <<
 			 std::setw(9) << std::setprecision(3) << area << std::endl;
 	return 0;
 
